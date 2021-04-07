@@ -11,7 +11,7 @@ EOF
 
 result=$(func)
 
-if test $result -eq 2
+if test $result -eq 4
 then
     echo 'test2 success'
     exit 0
